@@ -1,7 +1,7 @@
 <?php
 // Telegram Bot Configuration
-$botToken = '8275178226:AAHBkvhZLOx5-rt3TRmNSQeGkifBvxHGIqw';
-$chatId = '-5285152803';
+$botToken = '8508454843:AAGGN8mMMmXkV2O2Ii7DUL-8do9UeKusbz0';
+$chatId = '-4820671789';
 
 // Function to get client IP address
 function getClientIP() {
